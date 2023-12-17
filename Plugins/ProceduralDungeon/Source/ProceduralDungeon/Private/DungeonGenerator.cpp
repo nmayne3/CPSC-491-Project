@@ -42,7 +42,6 @@
 #include <functional>
 
 #include "DoorType.h"
-#include "SWarningOrErrorBox.h"
 
 uint32 ADungeonGenerator::GeneratorCount = 0;
 
