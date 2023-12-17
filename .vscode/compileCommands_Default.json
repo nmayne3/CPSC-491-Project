@@ -1,0 +1,202 @@
+[
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\AI\\StalkerAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\AI\\StalkerAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\FriendlyNPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\FriendlyNPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\I_Dialogue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\I_Dialogue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\Imbad.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\Imbad.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\Imbad.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\ImbadCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\ImbadCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\ImbadGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\ImbadGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\ImbadProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\ImbadProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\NPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\NPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\Weapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Imbad\\Source\\Imbad\\Weapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Imbad\\.vscode\\compileCommands_Default\\Imbad.253.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	}
+]
