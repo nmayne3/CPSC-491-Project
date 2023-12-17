@@ -122,7 +122,7 @@ void AImbadCharacter::EquipItem(UItemDataAsset* ItemData)
 			
 			if(EquippedWeapon)
 			{
-				GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, WeaponData->ItemDescription);
+				//GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, WeaponData->ItemDescription);
 			}
 			else
 			{

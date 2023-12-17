@@ -20,7 +20,7 @@ UTP_WeaponComponent::UTP_WeaponComponent(): Ammo(6), MaxAmmo(6), Recoil(0), HSpr
                                             FireAnimation(nullptr),
                                             FireMappingContext(nullptr),
                                             FireAction(nullptr), ReloadAction(nullptr), MuzzleFlashFX(nullptr),
-                                            Character(nullptr), Scale(1)
+                                            Scale(1), Character(nullptr) 
 {
 	// Default offset from the character location for projectiles to spawn
 	MuzzleOffset = FVector(100.0f, 0.0f, 10.0f);
@@ -63,8 +63,6 @@ void UTP_WeaponComponent::Fire()
 				// Perform Raycast
 				if(GetWorld()->LineTraceSingleByChannel(HitResult, SpawnLocation, TraceEnd, ECC_GameTraceChannel1, TraceParams))
 				{
-					DrawDebugLine(GetWorld(), SpawnLocation, TraceEnd, HitResult.bBlockingHit ?
-						FColor::Blue : FColor::Red, false, 5.0f, 0, 10.0f);
 					AActor* OtherActor = HitResult.GetActor();
 					OtherActor->TakeDamage(Damage, FPointDamageEvent(Damage, HitResult, HitResult.ImpactPoint,
 						nullptr), nullptr, Character);
